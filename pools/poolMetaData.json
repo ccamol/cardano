@@ -1,6 +1,7 @@
 {
-"name": "Cardano Staking Chile",
-"description": "Chile Official Stake Pool for Cardano Community",
-"ticker": "CHILE",
-"homepage": "https://www.staking.cl/"
+  "name": "Cardano Staking Chile",
+  "description": "Chile Official Stake Pool for Cardano Community",
+  "ticker": "CHILE",
+  "homepage": "https://www.staking.cl/",
+  "extended": "8c594f97b0dd91edbb2f3601b8c6a2c1"
 }
